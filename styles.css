@@ -1,11 +1,30 @@
 /* styles.css */
 
+*{
+    background: beige;
+}
+
 div {
     color: white;
     background-color: black;
   }
   
   p {
-    color: green;
+    color: orange;
   }
-  
+
+.one {
+    background-color: pink;
+}
+
+.two {
+    background-color: yellow;
+}
+
+.three {
+    background-color: brown;
+}
+
+h1, body, button {
+    font-family: 'Courier New', Courier, monospace;
+}
